@@ -1,5 +1,5 @@
-# Interview
-This Repository is for knowledge base
+# TechInterview
+This Repository is a Technology knowledge base targated for preparing technical interviews
 
 `System-Design-Interview`
 
