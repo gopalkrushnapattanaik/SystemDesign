@@ -1,4 +1,4 @@
-# Tech-Interview
+# Tech Interview
 This Repository is a Technology knowledge base targated for preparing technical interviews
 
 `System-Design-Interview`
