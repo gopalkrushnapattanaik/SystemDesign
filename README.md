@@ -36,5 +36,5 @@ These are some quick links to prepare systematically for system desgin interview
     
     3. Operational Complexity: You need a mature operations team to manage lots of services, which are being redeployed regularly.(https://martinfowler.com/articles/microservice-trade-offs.html#ops)
     
-    ### Monoliths Vs Microservices
+### Monoliths Vs Microservices
    
