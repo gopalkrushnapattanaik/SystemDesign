@@ -17,3 +17,4 @@ https://github.com/gopalkrushnapattanaik/Interview/wiki
    * Cracking the System Design interview - https://www.puncsky.com/blog/2016-02-13-crack-the-system-design-interview
    * geeks for geeks - https://www.geeksforgeeks.org/
    * medium - https://medium.com/
+   * Martin Fowler - https://martinfowler.com/
