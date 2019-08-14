@@ -18,3 +18,6 @@ https://github.com/gopalkrushnapattanaik/Interview/wiki
    * geeks for geeks - https://www.geeksforgeeks.org/
    * medium - https://medium.com/
    * Martin Fowler - https://martinfowler.com/
+
+   ### Few Books for software developement
+      https://github.com/franklingu/software-development-ebooks
