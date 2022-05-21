@@ -20,6 +20,7 @@ https://github.com/gopalkrushnapattanaik/Interview/wiki
    * medium - https://medium.com/
    * Martin Fowler - https://martinfowler.com/
    * DDD By Example - https://github.com/ddd-by-examples
+   * System Design by Alex Xu :- https://bytebyte-go.s3.amazonaws.com/ByteByteGo_LinkedIn_PDF.pdf
 
    ### Few Books for software developement
       https://github.com/franklingu/software-development-ebooks
